@@ -8,11 +8,11 @@ Passionate about Control Systems, Embedded Software, and Fullstack Development
 ## About Me
 
 - Currently working on two research papers in control systems and machine learning  
-- Hands-on experience with:
-    - Embedded systems (Simulink, MATLAB, C, STM32)
-    - Software development (Python, C++, Java, JavaScript)
-    - Web technologies (HTML, CSS, JavaScript, React)
-- Built projects like an obstacle-avoiding robot and an EEG-based prosthetic control system  
+- Practical experience with:
+  - Embedded systems (Simulink, MATLAB, STM32, C)
+  - Web development (React, Node.js, HTML, CSS, JavaScript)
+  - Programming languages (Python, C++, Java)
+- Built diverse projects including an EEG-based prosthetic controller, sleep monitoring with AI, and a finance web app  
 - Always eager to learn, collaborate, and build impactful solutions
 
 ---
